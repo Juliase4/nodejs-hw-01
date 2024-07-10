@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "57f08ad0-93cf-4d7c-8425-4b92e8c467d4",
+    "name": "Alfred Jakubowski",
+    "phone": "948.554.4999 x24529",
+    "email": "Rae_Altenwerth@yahoo.com",
+    "job": "International Quality Analyst"
+  },
+  {
+    "id": "f8fa53d1-71b5-44dc-9bd2-e634d5f4dcac",
+    "name": "Courtney Schmitt",
+    "phone": "942.354.3831",
+    "email": "Dasia89@yahoo.com",
+    "job": "Central Configuration Officer"
+  },
+  {
+    "id": "8a18880d-1dc8-4bfc-aad6-6d137a6d3413",
+    "name": "Rose Breitenberg-Hayes",
+    "phone": "733-568-8164 x63181",
+    "email": "Elisabeth.Blick60@yahoo.com",
+    "job": "Legacy Applications Coordinator"
+  }
+]
